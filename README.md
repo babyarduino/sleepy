@@ -1,5 +1,5 @@
-# Studio Sleepy Co by Arden
-A super cute and efficient Image Resizing Tool designed to help you resize multiple PNG files in a flash! ✨ 
+# Batch Emote Resizing Tool by Studio Sleepy Co
+An efficient Image Resizing Tool designed to help you resize multiple PNG files in a flash! ✨ 
 
 Just upload your batch of images, choose your desired size, and voilà~ all your emotes and designs resized perfectly (≧∇≦)ﾉ. 
 
